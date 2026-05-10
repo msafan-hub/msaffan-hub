@@ -1,5 +1,6 @@
-<img width="907" height="431" alt="image" src="git banner" />
-
+<p align="center">
+  <img src="git banner.png" alt="Mohammed Saffan Banner" />
+</p>
 # Hi 👋 I'm Mohammed Saffan
 
 ### Frontend Developer • UI Designer • Future Engineer
