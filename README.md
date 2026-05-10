@@ -48,18 +48,12 @@ Personal portfolio showcasing creative frontend development projects.
 >
 > ---
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=msafan-hub&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+</p> ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=msafan-hub&theme=tokyonight&hide_border=true" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msafan-hub&layout=compact&theme=tokyonight" />
-</p>
+
